@@ -1,7 +1,7 @@
 # HTML5
 -----
 ###第五章：跨文档消息通信
-  ####postMessage对象
+####postMessage对象
         *接收消息的窗口对象postMessage()
         *一参 : 发送的数据，二参 : 发送的域
         *交互方式
